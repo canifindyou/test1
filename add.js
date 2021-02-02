@@ -1,4 +1,4 @@
-function addG6(params) {
+function addG7(params) {
     console.log("G6数据信息")
 }
 

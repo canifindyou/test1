@@ -15,6 +15,3 @@ function deleteG7(params) {
 function deleteG7(params) {
     console.log("删除G6数据源")
 }
-function deleteG8(params) {
-    console.log("删除G6数据源")
-}

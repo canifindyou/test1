@@ -41,3 +41,5 @@ function deleteG7(params) {
 
     })
 
+    v7推送
+
